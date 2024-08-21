@@ -1,1 +1,2 @@
-Hello from Mexico, this is a test 
+Hello from Mexico, this is a test, demo for github template
+
